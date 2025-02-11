@@ -10,7 +10,7 @@ const app = express()
 const corsOptions = {
     origin: [
         'http://localhost:5173',
-        'https://thunderous-pothos-0225a2.netlify.app',
+        'https://a11-service-review.netlify.app',
         'https://service-review-server-eosin.vercel.app',
     ],
     credentials: true,
